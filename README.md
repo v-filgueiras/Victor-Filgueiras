@@ -46,8 +46,8 @@ Tenho compromisso com **qualidade de código, clareza, responsabilidade técnica
 
 ### 📬 Vamos nos conectar
 
-- 💼 [LinkedIn](https://linkedin.com/in/victorfilgueiras)
-- 📧 Email: **victorf.santana@exemplo.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-filgueiras-2ba4a32b3/)
+- 📧 Email: **vfilgueiras.dev@gmail.com**
 - 🌎 Localização: **Brasil**
 
 ---
@@ -61,5 +61,5 @@ Tenho compromisso com **qualidade de código, clareza, responsabilidade técnica
 ---
 
 <p align="center">
-  <em>"Transformar ideias em código limpo e eficiente é o que me move."</em>
+  <em>"Transformar ideias em códigos eficientes é o que me move. Mas jogar também é muito bom hahaha"</em>
 </p>
