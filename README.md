@@ -1,54 +1,70 @@
-# 👨🏻‍💻 Victor Filgueiras  
-
-Me chamo **Victor Filgueiras**, **Analista de Dados** e **Engenheiro da Computação**, com experiência em transformar grandes volumes de dados em insights estratégicos e desenvolver soluções otimizadas para desafios complexos. Minha atuação é direcionada à criação de soluções escaláveis, automação de processos e desenvolvimento de modelos preditivos, sempre utilizando metodologias ágeis para maximizar eficiência e resultados. 
-
----
-
-### 🚀 Áreas de Proficiência  
-- **Linguagens**: Python, R, SQL, JavaScript, C/C++  
-- **Ferramentas**: Pandas, NumPy, Power BI  
-- **Metodologias**: ETL, Análise Exploratória de Dados (EDA), Modelagem Preditiva, Engenharia de Features  
-- **Bancos de Dados**: PostgreSQL, MySQL  
-- **DevOps**: Git  
+<h1 align="center">Olá! Eu sou o Victor Filgueiras Santana 👨‍💻</h1>
+<h3 align="center">Engenheiro da Computação focado em desenvolvimento Backend com Java</h3>
 
 ---
 
-### 🤖 Linguagens e Tecnologias  
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<br>
+### 🚀 Sobre mim
+
+🎓 Sou formado em **Engenharia da Computação**, apaixonado por resolver problemas usando **lógica, código limpo** e boas práticas de programação.
+
+💼 Tenho foco em **desenvolvimento backend com Java**, aplicando conceitos sólidos de **Programação Orientada a Objetos (POO)**, **estruturas de dados**, e **design de APIs**.
+
+🔍 Estou sempre aprendendo e explorando ferramentas modernas do ecossistema Java, como:
+
+- Java 8+
+- Spring Boot (iniciando)
+- JPA / Hibernate
+- REST APIs
+- MySQL / PostgreSQL
+- Git e GitHub para versionamento
 
 ---
 
-### 🌱 Sempre aprendendo  
-Sou entusiasta de tecnologia e estou constantemente aprimorando minhas habilidades em:  
-- Desenvolvimento de APIs  
-- Cloud Computing  
-- Otimização de processos com técnicas de Inteligência Artificial  
+### 🧰 Tecnologias & Ferramentas
+
+<img align="left" alt="Java" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Spring" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="MySQL" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Linux" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="VSCode" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br /><br />
 
 ---
 
-### 📊 Estatísticas  
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Victor-Filgueiras&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>  
-<br><br><br><br><br><br><br><br><br>
+### 📂 Repositórios em destaque
+
+🛒 [**Cadastro de Produtos (POO)**](https://github.com/seu-usuario/repositorio-produto)  
+Exercício prático em Java aplicando encapsulamento, validações, getters/setters e cálculo de estoque.
+
+💰 [**Sistema Bancário (simples)**](https://github.com/seu-usuario/repositorio-conta)  
+Projeto de simulação de operações bancárias com abstração de contas e operações de saque e depósito.
+
+📊 [**Gráficos com Python (matplotlib)**](https://github.com/seu-usuario/repositorio-python-graficos)  
+Visualização de dados com matplotlib e pandas para análise exploratória.
+
+> 📌 *Quer ver mais? Explore meus repositórios acima!*
 
 ---
 
-### 📫 Entre em contato  
-Contate-me, sinta-se à vontade para me chamar:  
-- **Email**: dev.filgueiras@gmail.com  
-- **LinkedIn**: [https://www.linkedin.com/in/victor-filgueiras-2ba4a32b3/](https://www.linkedin.com/in/victor-filgueiras-2ba4a32b3/)  
+### 📬 Contato
+
+📧 Email: victorf.santana@exemplo.com  
+💼 LinkedIn: [linkedin.com/in/victorfilgueiras](https://www.linkedin.com/in/victorfilgueiras)  
+📍 Localização: Brasil
+
+---
+
+### ⚡ Curiosidades
+
+- 📘 Atualmente estudando **Spring Boot** e **arquitetura de APIs RESTful**
+- 💡 Gosto de desafios de lógica e programação
+- 🧠 Sempre em busca de boas práticas de código limpo e SOLID
+
+---
+
+### 📊 Estatísticas (GitHub Metrics)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
